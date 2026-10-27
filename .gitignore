@@ -1,0 +1,27 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary Microsoft Office files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+~$*.docx
+~$*.pptx
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.old
+*~
+
+# Private environment files
+.env
+.env.*
+!.env.example
+
+# Editor settings
+.vscode/
+.idea/
